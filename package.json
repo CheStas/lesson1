@@ -1,0 +1,22 @@
+{
+  "name": "jsbooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheStas/lesson1.git"
+  },
+  "author": "chestas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheStas/lesson1/issues"
+  },
+  "homepage": "https://github.com/CheStas/lesson1#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
+}
