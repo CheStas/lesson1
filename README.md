@@ -4,3 +4,5 @@ Installation:
 
 npm i
 webpack
+
+open index.html
