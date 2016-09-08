@@ -1,6 +1,7 @@
 # lesson1
 
-# Installation
-
+Installation
+```
 npm i
 webpack
+```
