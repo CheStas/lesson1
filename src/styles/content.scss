@@ -167,4 +167,13 @@
             overflow: hidden;
         }
     }
+
+    @media screen and (min-width: 1290px) {
+        .list {
+            &__book {
+                padding: 0 2%;
+                flex-basis: 25%;
+            }
+        }
+    }
 }
