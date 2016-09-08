@@ -1,8 +1,13 @@
 # lesson1
 
-Installation:
+> Installation:
 
+``
 npm i
-webpack
+``
 
-open index.html
+``
+webpack
+``
+
+> open index.html
