@@ -1,8 +1,6 @@
-@import 'reset'
-
-body {
-}
-
-header {
-    background-color: #eedb59;
-}
+@import 'reset';
+@import 'variables';
+@import 'fonts';
+@import 'header';
+@import 'content';
+@import 'footer';
